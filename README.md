@@ -1,6 +1,6 @@
 # RVCK Project
 
-![RVCK Project Banner](docs/images/rvck_banner.png)  
+![RVCK Project Banner](rvck.png)  
 *同源RISC-V，驱动新生态 —— 为Th1520、SG2042、Spacemit K1...定制的Linux内核项目*
 
 
