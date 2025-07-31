@@ -17,7 +17,7 @@ RVCK（RISC-V Custom Kernel）是基于Linux内核6.6.y的RISC-V架构同源项�
 
 ## Th1520 & 开发板
 
-![Th1520 SoC与开发板](docs/images/th1520_soc_board.png)  
+![Th1520 SoC与开发板](licheepi4a.png)  
 *左：Th1520 SoC架构图 | 右：配套开发板实物图*
 
 
